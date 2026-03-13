@@ -6,8 +6,8 @@
 I bridge the gap between theoretical machine learning and production-ready systems. I specialize in building low-latency GenAI agents, robust MLOps pipelines, and scalable computer vision applications.
 
 - 🔭 **I’m currently working on:** 
-  - [Real-Time Voice-to-Voice RAG Agent](https://github.com/Yogaselvan/) *(WebSockets, Pipecat, LangChain)*
-  -[End-to-End MLOps Pipeline for Energy Grid](https://github.com/Yogaselvan/energy-demand-mlops) *(MLflow, Docker, FastAPI, Evidently AI)*
+  -[Real-Time Voice-to-Voice RAG Agent](https://github.com/Yogaselvan/voice-native) *(WebSockets, Pipecat, LangChain, Deepgram, ElevenLabs)*
+  - [End-to-End MLOps Pipeline for Energy Grid](https://github.com/Yogaselvan/energy-demand-mlops) *(MLflow, Docker, FastAPI, Evidently AI)*
 
 - 🌱 **I’m currently diving deep into:** Agentic workflows (LangGraph), LLM Observability, and real-time streaming inference.
 
@@ -21,7 +21,7 @@ I bridge the gap between theoretical machine learning and production-ready syste
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/yogaselvan-s-2b7442225" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yogaselvan-s-2b7442225" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/yogaselvan-s/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yogaselvan-s" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/yogaselavan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yogaselavan" height="30" width="40" /></a>
 </p>
 
