@@ -15,7 +15,7 @@ I bridge the gap between theoretical machine learning and production-ready syste
 
 - 💬 **Ask me about:** Implementing RAG, managing latency budgets in AI, Dockerizing ML models, and tracking Data Drift in production.
 
-- 📫 **How to reach me:** **yogaselvansaravanan557@gmail.com**
+- 📫 **How to reach me:** **yogaselvansaravanan2529@gmail.com**
 
 <br/>
 
